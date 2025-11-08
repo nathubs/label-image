@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import "@varlet/ui/es/Snackbar/style/index";
+import "@varlet/ui/es/snackbar/style/index";
 import lableImage from "./components/lableImage.vue";
 </script>
 
