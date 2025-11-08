@@ -25,5 +25,7 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+./docs
+./dist
 
 *.tsbuildinfo
